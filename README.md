@@ -26,7 +26,7 @@ print(B)
 ```
 ## Output:
 
-![](output3.png)
+![](./output3.png)
 
 ## Result:
 
